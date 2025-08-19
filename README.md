@@ -1,16 +1,49 @@
-## Hi there 👋
+# 💻 ¡Hola, soy Nicolás Elías Carrasco!
 
-<!--
-**NicolasEliasCarrasco/NicolasEliasCarrasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Datos Jr | SQL | Power BI | Excel | Python
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub ✨. Soy un analista de datos en formación y con experiencia laboral en **control de flota y combustible**, apasionado por mejorar la calidad de los datos y crear soluciones que optimicen la gestión en empresas de logística y construcción.  
+Me gusta transformar registros en información clara y valiosa para la toma de decisiones 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Habilidades & Herramientas
+
+- *Análisis de Datos:* SQL, Python (Pandas, NumPy)
+- *Visualización de Datos:* Power BI, Excel Avanzado
+- *Bases de Datos:* SQL Server, MySQL
+- *ETL & Limpieza de Datos:* Python, SQL
+- *Control de Versiones:* Git & GitHub
+- *Otras herramientas:* Excel (dashboards, validaciones), Google Sheets
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,mysql,pandas,excel,powerbi,vscode&theme=light&perline=5" />
+  </a>
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+- 🛢️ [Fuel Control (SQL & Excel)](https://github.com/tu_usuario/fuel_control) - Limpieza y análisis de datos de consumo de combustible en flota de camiones.
+- 📊 [FastFood_DB (SQL)](https://github.com/tu_usuario/fastfood_db) - Modelo de base de datos para restaurantes de comida rápida.
+- 📈 [COVID Data Analysis (Python)](https://github.com/tu_usuario/covid_analysis) - Análisis de datos de la pandemia con Pandas y Numpy.
+- ✈️ [Airline Data Pipeline (SQL & Python)](https://github.com/tu_usuario/airline_project) - Automatización de ingesta de datos de aerolíneas.
+
+---
+
+## 🎓 Formación & Aprendizaje
+
+- **Analista de Datos** – Bootcamp Soy Henry  
+- **Analista Programador Universitario** – Universidad Nacional de Jujuy (23/28 materias aprobadas)  
+- **Cursos adicionales:** Excel Avanzado, SQL, Power BI  
+
+---
+
+## 📬 Conectemos
+
+- LinkedIn: [linkedin.com/in/nicolas-carrasco](https://www.linkedin.com)  
+- Email: nicolas.tuemail@gmail.com  
+
+💡 *Siempre abierto a colaborar en proyectos de datos y seguir aprendiendo cada día.*
