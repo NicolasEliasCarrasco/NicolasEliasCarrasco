@@ -27,7 +27,7 @@ Me gusta transformar registros en información clara y valiosa para la toma de d
 ## 📂 Proyectos Destacados
 
 - 📊 [FastFood_DB (SQL)](https://github.com/tu_usuario/fastfood_db) - Modelo de base de datos para restaurantes de comida rápida.
-- 📈 [COVID Data Analysis (Python)](https://github.com/tu_usuario/covid_analysis) - Análisis de datos de la pandemia con Pandas y Numpy.
+- 📈 [COVID Data Analysis (Python)](https://github.com/NicolasEliasCarrasco/covid_analysis) - Análisis de datos de la pandemia con Pandas y Numpy.
 - ✈️ [Airline Data Pipeline (SQL & Python)](https://github.com/tu_usuario/airline_project) - Automatización de ingesta de datos de aerolíneas.
 
 ---
