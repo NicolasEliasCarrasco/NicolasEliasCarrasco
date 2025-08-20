@@ -28,7 +28,6 @@ Me gusta transformar registros en información clara y valiosa para la toma de d
 
 - 📊 [FastFood_DB (SQL)](https://github.com/NicolasEliasCarrasco/fastfood_db) - Modelo de base de datos para restaurantes de comida rápida.
 - 📈 [COVID Data Analysis (Python)](https://github.com/NicolasEliasCarrasco/covid_analysis) - Análisis de datos de la pandemia con Pandas y Numpy.
-- ✈️ [Airline Data Pipeline (SQL & Python)](https://github.com/tu_usuario/airline_project) - Automatización de ingesta de datos de aerolíneas.
 - 📉 [SuperStore (Spreadsheets)](https://docs.google.com/spreadsheets/d/1AXE95DEG5btNVqppyiVeKnaebYzcDuMLUsyipMw2NEw/edit?usp=sharing) - Análisis de datos de ventas utilizando hojas de cálculo.
 - 📊 [AdventureWorks (Power BI)](https://github.com/NicolasEliasCarrasco/AdventureWorks) - Dashboard interactivo basado en datos de AdventureWorks.
 
