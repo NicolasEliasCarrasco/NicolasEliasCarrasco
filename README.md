@@ -43,7 +43,7 @@ Me gusta transformar registros en información clara y valiosa para la toma de d
 
 ## 📬 Conectemos
 
-- LinkedIn: [linkedin.com/in/nicolas-carrasco](https://www.linkedin.com)  
-- Email: nicolas.tuemail@gmail.com  
+- LinkedIn: [Nicolas Carrasco](https://www.linkedin.com/in/nicolas-carrasco-bb870321b/)  
+- Email: nicolascarrasco.191292@gmail.com
 
 💡 *Siempre abierto a colaborar en proyectos de datos y seguir aprendiendo cada día.*
